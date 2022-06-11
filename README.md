@@ -11,7 +11,7 @@ Initial setting is saving the settings from
 one of your accounts.
 If you don't do this, configuration will be saved automatically,
 from the first account you ever logged in to.
-To save the configuration manaullt choose "3)Save configuraion",
+To save the configuration manaully choose "3)Save configuraion",
 then choose ID of the account FROM which you need to save the settings.
 Accounts are listed in order they were added on the computed, so first of them is most likely your main.
 How to get your account ID is described below, in Manual transfer paragraph.
