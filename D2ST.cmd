@@ -158,7 +158,7 @@ echo Initial setting is saving the settings from
 echo one of your accounts.
 echo If you don't do this, configuration will be saved automatically,
 echo from the first account you ever logged in to.
-echo To save the configuration manaullt choose "3)Save configuraion",
+echo To save the configuration manaully choose "3)Save configuraion",
 echo then choose ID of the account FROM which you need to save the settings.
 echo Accounts are listed in order they were added on the computed, so first of them is most likely your main.
 echo How to get your account ID is described below, in Manual transfer paragraph.
