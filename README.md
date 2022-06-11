@@ -6,6 +6,7 @@ This program allows to quickly and easily transfer you Dota settings
 TO and FROM any account you ever logged in to on this PC.
 
 INITIAL SETTING (optional):
+
 Initial setting is saving the settings from
 one of your accounts.
 If you don't do this, configuration will be saved automatically,
@@ -16,6 +17,7 @@ Accounts are listed in order they were added on the computed, so first of them i
 How to get your account ID is described below, in Manual transfer paragraph.
 
 HOW TO USE:
+
 You can transfer settings automatically or manually.
 1) Auto transfer
   When auto transfering you don't need to do basically anything. Your saved configuration will tranfer by itself
